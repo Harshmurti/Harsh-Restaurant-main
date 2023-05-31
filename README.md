@@ -7,6 +7,7 @@ Developed and implemented a responsible "Restaurant Website" using HTML, CSS and
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=flat-square&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/murtihashfl/)
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-pink?style=flat-square&logo=instagram)](https://instagram.com/murtiharsh?igshid=ZDdkNTZiNTM=)
 
+Please do support & follow on these plateform
 <h2 align="center">Harsh - Restaurant Website</h2>
 
 ![Harsh murti](https://github.com/Harshmurti/Harsh-Restaurant-main/assets/131546739/2257278e-56f0-43ba-9504-3f91067c17e3)
