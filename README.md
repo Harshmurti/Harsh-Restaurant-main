@@ -11,4 +11,4 @@ Please do support & follow on these plateform
 <h2 align="center">Harsh - Restaurant Website</h2>
 
 ![Harsh murti](https://github.com/Harshmurti/Harsh-Restaurant-main/assets/131546739/2257278e-56f0-43ba-9504-3f91067c17e3)
-![Harsh Murti](https://github.com/Harshmurti/Harsh-Restaurant/assets/131546739/cc44d192-4629-4294-b4b0-47ded6f12b1f)
+![Harsh Murti Image](https://github.com/Harshmurti/Harsh-Restaurant/assets/131546739/cc44d192-4629-4294-b4b0-47ded6f12b1f)
